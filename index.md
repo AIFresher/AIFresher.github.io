@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-AIFresher's hello world!
+## AIFresher's hello world!
 
 You can use the [editor on GitHub](https://github.com/AIFresher/AIFresher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
