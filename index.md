@@ -5,7 +5,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 If you want to embed images, this is how you do it:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of 001](/images/images01.jpg)
 
 
