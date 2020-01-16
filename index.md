@@ -1,5 +1,5 @@
 ## Welcome to My Github Pages
-![Image of 001](/images/images01.png)
+![Image of 001](/images/images01.jpg)
 
 Name:  Cong Liu
 Nationality:  China
